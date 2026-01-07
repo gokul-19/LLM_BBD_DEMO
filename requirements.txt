@@ -1,3 +1,4 @@
-behave
-openai
-python-dotenv
+streamlit
+google-genai
+
+
